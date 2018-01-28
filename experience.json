@@ -32,7 +32,7 @@
 	{"title": "Build Interactive JavaScript Charts with D3.js", "url": "https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4", "type": "Course", "tags": ["D3.js", "SVG"], "completed": "1/2018"},
 	{"title": "The Beginner's Guide to ReactJS", "url": "https://egghead.io/courses/the-beginner-s-guide-to-reactjs", "type": "Course", "tags": ["React"], "completed": "12/2017"},
 	{"title": "Introduction to Git", "url": "https://www.youtube.com/watch?v=ZDR433b0HJY", "type": "Talk", "tags": ["Git"], "completed": "12/2015"},
-	{"title": "Chrome DevTools Guide", "url": "https://developers.google.com/web/tools/chrome-devtools/", "type": "Articles", "tags": ["DevTools"], "completed": "3/2015"},
+	{"title": "Chrome DevTools Guide", "url": "https://developers.google.com/web/tools/chrome-devtools/", "type": "Articles", "tags": ["DevTools"], "completed": "3/2016"},
 	{"title": "React: Quick Start Guide", "url": "https://reactjs.org/docs/hello-world.html", "type": "Articles", "tags": ["React"], "completed": "7/2017"},
 	{"title": "Node.js the Right Way", "url": "https://pragprog.com/book/jwnode/node-js-the-right-way", "type": "Book", "tags": ["Node"], "completed": "10/2016"},
 	{"title": "Front-End Tooling", "url": "https://www.manning.com/books/front-end-tooling-with-gulp-bower-and-yeoman", "type": "Book", "tags": ["Gulp"], "completed": "5/2017"},
