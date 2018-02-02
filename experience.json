@@ -68,5 +68,7 @@
 	{"title": "Regular expressions for regular folks", "url": "https://medium.com/@sarafecadu/regular-expressions-for-regular-folks-4cfa3724c600", "type": "Blog Post", "tags": ["JavaScript"], "completed": "10/2017"},
 	{"title": "JavaScript arrays and their peculiar properties", "url": "https://medium.com/@sarafecadu/javascript-arrays-and-their-peculiar-properties-98cdc57e28e5", "type": "Blog Post", "tags": ["JavaScript"], "completed": "12/2017"},
 	{"title": "Introduction to Python 3", "url": "https://www.meetup.com/She-Codes-Now-Seattle/events/242068091/", "type": "Meetup", "tags": ["Python"], "completed": "9/2017"},
-	{"title": "Understand the Basics of HTTP", "url": "https://egghead.io/courses/understand-the-basics-of-http", "type": "Course", "tags": ["HTTP"], "completed": "1/2018"}
+	{"title": "Understand the Basics of HTTP", "url": "https://egghead.io/courses/understand-the-basics-of-http", "type": "Course", "tags": ["HTTP"], "completed": "1/2018"},
+	{"title": "React Enlightenment", "url": "https://www.reactenlightenment.com/", "type": "Book", "tags": ["React"], "completed": "10/2017"}
+
 ]
