@@ -71,5 +71,6 @@
 	{"title": "Understand the Basics of HTTP", "url": "https://egghead.io/courses/understand-the-basics-of-http", "type": "Course", "tags": ["HTTP"], "completed": "1/2018"},
 	{"title": "React Enlightenment", "url": "https://www.reactenlightenment.com/", "type": "Book", "tags": ["React"], "completed": "10/2017"},
 	{"title": "Introduction to Node", "url": "https://egghead.io/courses/introduction-to-node-the-fundamentals", "type": "Course", "tags": ["Node"], "completed": "2/2018"},
-	{"title": "Getting Started with Express", "url": "https://egghead.io/courses/getting-started-with-express-js", "type": "Course", "tags": ["Express", "MongoDB"], "completed": "2/2018"}
+	{"title": "Getting Started with Express", "url": "https://egghead.io/courses/getting-started-with-express-js", "type": "Course", "tags": ["Express", "MongoDB"], "completed": "2/2018"},
+	{"title": "Grow with Google: Mobile Web", "url": "https://blog.udacity.com/2017/10/udacity-google-announce-50000-new-scholarships.html", "type": "Course", "tags": ["JavaScript"], "completed": "2/2018"}
 ]
