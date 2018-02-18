@@ -70,5 +70,6 @@
 	{"title": "Introduction to Python 3", "url": "https://www.meetup.com/She-Codes-Now-Seattle/events/242068091/", "type": "Meetup", "tags": ["Python"], "completed": "9/2017"},
 	{"title": "Understand the Basics of HTTP", "url": "https://egghead.io/courses/understand-the-basics-of-http", "type": "Course", "tags": ["HTTP"], "completed": "1/2018"},
 	{"title": "React Enlightenment", "url": "https://www.reactenlightenment.com/", "type": "Book", "tags": ["React"], "completed": "10/2017"},
-	{"title": "Introduction to Node", "url": "https://egghead.io/courses/introduction-to-node-the-fundamentals", "type": "Course", "tags": ["Node"], "completed": "2/2018"}
+	{"title": "Introduction to Node", "url": "https://egghead.io/courses/introduction-to-node-the-fundamentals", "type": "Course", "tags": ["Node"], "completed": "2/2018"},
+	{"title": "Getting Started with Express", "url": "https://egghead.io/courses/getting-started-with-express-js", "type": "Course", "tags": ["Express", "MongoDB"], "completed": "2/2018"}
 ]
