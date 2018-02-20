@@ -73,5 +73,7 @@
 	{"title": "Introduction to Node", "url": "https://egghead.io/courses/introduction-to-node-the-fundamentals", "type": "Course", "tags": ["Node"], "completed": "2/2018"},
 	{"title": "Getting Started with Express", "url": "https://egghead.io/courses/getting-started-with-express-js", "type": "Course", "tags": ["Express", "MongoDB"], "completed": "2/2018"},
 	{"title": "Grow with Google: Mobile Web", "url": "https://blog.udacity.com/2017/10/udacity-google-announce-50000-new-scholarships.html", "type": "Course", "tags": ["JavaScript"], "completed": "2/2018"},
-	{"title": "Manage Complex State in React with MobX", "url": "https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx", "type": "Course", "tags": ["MobX"], "completed": "2/2018"}
+	{"title": "Manage Complex State in React with MobX", "url": "https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx", "type": "Course", "tags": ["MobX"], "completed": "2/2018"},
+	{"title": "Learn and Understand NodeJS", "url": "https://www.udemy.com/understand-nodejs/", "type": "Course", "tags": ["Node", "Express"], "completed": "2/2018"},
+	{"title": "Practical Git for Everyday Professional Use", "url": "https://egghead.io/courses/practical-git-for-everyday-professional-use", "type": "Course", "tags": ["Git"], "completed": "2/2018"}
 ]
