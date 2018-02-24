@@ -22,7 +22,7 @@
 	{"title": "Learning JavaScript Design Patterns", "url": "http://shop.oreilly.com/product/0636920025832.do", "type": "Book", "tags": ["JavaScript", "Design Patterns"], "completed": "2/2016"},
 	{"title": "JavaScript Design Patterns", "url": "https://www.udacity.com/course/javascript-design-patterns--ud989", "type": "Course", "tags": ["JavaScript", "Design Patterns"], "completed": "1/2016"},
 	{"title": "Introduction to JavaScript", "url": "https://www.codecademy.com/learn/introduction-to-javascript", "type": "Course", "tags": ["JavaScript"], "completed": "10/2015"},
-	{"title": "Introction to jQuery", "url": "https://www.codecademy.com/tracks/jquery", "type": "Course", "tags": ["jQuery"], "completed": "10/2015"},
+	{"title": "Introduction to jQuery", "url": "https://www.codecademy.com/tracks/jquery", "type": "Course", "tags": ["jQuery"], "completed": "10/2015"},
 	{"title": "Learn Git", "url": "https://www.codecademy.com/learn/learn-git", "type": "Course", "tags": ["Git"], "completed": "11/2015"},
 	{"title": "Intro to HTML and CSS", "url": "https://in.udacity.com/course/intro-to-html-and-css--ud304", "type": "Course", "tags": ["HTML", "CSS"], "completed": "10/2015"},
 	{"title": "CSS Jump Start", "url": "https://mva.microsoft.com/en-us/training-courses/css-jump-start-8474", "type": "Course", "tags": ["CSS"], "completed": "12/2015"},
@@ -48,11 +48,11 @@
 	{"title": "Some Film Appreciation", "url": "https://sarafec.github.io/saraWatchesMovies/", "type": "Project", "tags": ["AngularJS", "UI Bootstrap", "D3.js"], "completed": "3/2017"},
 	{"title": "The Worst Clock", "url": "https://sarafec.github.io/theWorstClock/", "type": "Project", "tags": ["HTML", "CSS", "JavaScript"], "completed": "7/2017"},
 	{"title": "Desserts MVC JavaScript", "url": "https://sarafec.github.io/dessertsMVC-JS/", "type": "Project", "tags": ["JavaScript", "History API"], "completed": "7/2017"},
-	{"title": "Desserts MVC Angular", "url": "https://sarafec.github.io/dessertsMVC-Angular/", "type": "Project", "tags": ["TypeScript", "Angular"], "completed": "7/2017"},
+	{"title": "Desserts MVC Angular", "url": "https://sarafec.github.io/dessertsMVC-Angular/", "type": "Project", "tags": ["TypeScript", "Angular", "RxJS"], "completed": "7/2017"},
 	{"title": "Desserts MVC React", "url": "https://sarafec.github.io/dessertsMVC-React/", "type": "Project", "tags": ["React"], "completed": "7/2017"},
-	{"title": "Books: Filter by year", "url": "https://sarafec.github.io/filterByYear/", "type": "Project", "tags": ["TypeScript", "Angular"], "completed": "8/2017"},
+	{"title": "Books: Filter by year", "url": "https://sarafec.github.io/filterByYear/", "type": "Project", "tags": ["TypeScript", "Angular", "RxJS"], "completed": "8/2017"},
 	{"title": "Books: Filter by genre", "url": "https://sarafec.github.io/filterByGenre/", "type": "Project", "tags": ["React"], "completed": "8/2017"},
-	{"title": "EriSnap", "url": "https://sarafec.github.io/eriSnap/", "type": "Project", "tags": ["TypeScript", "Angular"], "completed": "8/2017"},
+	{"title": "EriSnap", "url": "https://sarafec.github.io/eriSnap/", "type": "Project", "tags": ["TypeScript", "Angular", "RxJS"], "completed": "8/2017"},
 	{"title": "Dogs", "url": "https://sarafec.github.io/dogs/", "type": "Project", "tags": ["React"], "completed": "8/2017"},
 	{"title": "Static", "url": "https://sarafec.github.io/static/", "type": "Project", "tags": ["D3.js"], "completed": "9/2017"},
 	{"title": "Introduction to JavaScript Object Notation", "url": "http://shop.oreilly.com/product/0636920041597.do", "type": "Book", "tags": ["JSON"], "completed": "3/2016"},
@@ -75,5 +75,6 @@
 	{"title": "Grow with Google: Mobile Web", "url": "https://blog.udacity.com/2017/10/udacity-google-announce-50000-new-scholarships.html", "type": "Course", "tags": ["JavaScript"], "completed": "2/2018"},
 	{"title": "Manage Complex State in React with MobX", "url": "https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx", "type": "Course", "tags": ["MobX"], "completed": "2/2018"},
 	{"title": "Learn and Understand NodeJS", "url": "https://www.udemy.com/understand-nodejs/", "type": "Course", "tags": ["Node", "Express"], "completed": "2/2018"},
-	{"title": "Practical Git for Everyday Professional Use", "url": "https://egghead.io/courses/practical-git-for-everyday-professional-use", "type": "Course", "tags": ["Git"], "completed": "2/2018"}
+	{"title": "Practical Git for Everyday Professional Use", "url": "https://egghead.io/courses/practical-git-for-everyday-professional-use", "type": "Course", "tags": ["Git"], "completed": "2/2018"},
+	{"title": "Introduction to the Python 3 Programming Language", "url": "https://egghead.io/courses/introduction-to-the-python-3-programming-language", "type": "Course", "tags": ["Python"], "completed": "2/2018"}
 ]
