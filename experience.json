@@ -76,5 +76,6 @@
 	{"title": "Manage Complex State in React with MobX", "url": "https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx", "type": "Course", "tags": ["MobX"], "completed": "2/2018"},
 	{"title": "Learn and Understand NodeJS", "url": "https://www.udemy.com/understand-nodejs/", "type": "Course", "tags": ["Node", "Express"], "completed": "2/2018"},
 	{"title": "Practical Git for Everyday Professional Use", "url": "https://egghead.io/courses/practical-git-for-everyday-professional-use", "type": "Course", "tags": ["Git"], "completed": "2/2018"},
-	{"title": "Introduction to the Python 3 Programming Language", "url": "https://egghead.io/courses/introduction-to-the-python-3-programming-language", "type": "Course", "tags": ["Python"], "completed": "2/2018"}
+	{"title": "Introduction to the Python 3 Programming Language", "url": "https://egghead.io/courses/introduction-to-the-python-3-programming-language", "type": "Course", "tags": ["Python"], "completed": "2/2018"},
+	{"title": "Django Girls", "url": "https://djangogirls.org/seattle/", "type": "Workshop", "tags": ["Python", "Django"], "completed": "2/2018"}
 ]
