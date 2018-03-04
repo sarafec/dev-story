@@ -63,8 +63,10 @@
 	{"title": "Everything you never wanted to know about JavaScript numbers", "url": "https://www.youtube.com/watch?v=MqHDDtVYJRI", "type": "Talk", "tags": ["JavaScript"], "completed": "6/2017"},
 	{"title": "A world without loops", "url": "https://medium.com/@sarafecadu/a-world-without-loops-f8f65a30c82d", "type": "Blog Post", "tags": ["JavaScript"], "completed": "7/2017"},
 	{"title": "The humble JSON file meets Angular v4", "url": "https://medium.com/@sarafecadu/the-humble-json-file-meets-angular-v4-6b8ae861b018", "type": "Blog Post", "tags": ["Angular", "RxJS"], "completed": "7/2017"},
+	{"title": "SeattleJS Conference 2017", "url": "http://seattlejs.com/", "type": "Conference", "tags": ["JavaScript"], "completed": "8/2017"},
 	{"title": "Unpacking the meta viewport tag", "url": "https://medium.com/@sarafecadu/unpacking-the-meta-viewport-tag-bd6b0d0d2471", "type": "Blog Post", "tags": ["HTML"], "completed": "8/2017"},
 	{"title": "64-bit floating point: a JavaScript story", "url": "https://medium.com/@sarafecadu/64-bit-floating-point-a-javascript-story-fa6aad266665", "type": "Blog Post", "tags": ["JavaScript"], "completed": "9/2017"},
+	{"title": "Microsoft Edge Web Summit 2017", "url": "https://summit.microsoftedge.com/", "type": "Conference", "tags": ["HTML","CSS","JavaScript"], "completed": "9/2017"},
 	{"title": "Regular expressions for regular folks", "url": "https://medium.com/@sarafecadu/regular-expressions-for-regular-folks-4cfa3724c600", "type": "Blog Post", "tags": ["JavaScript"], "completed": "10/2017"},
 	{"title": "JavaScript arrays and their peculiar properties", "url": "https://medium.com/@sarafecadu/javascript-arrays-and-their-peculiar-properties-98cdc57e28e5", "type": "Blog Post", "tags": ["JavaScript"], "completed": "12/2017"},
 	{"title": "Introduction to Python 3", "url": "https://www.meetup.com/She-Codes-Now-Seattle/events/242068091/", "type": "Meetup", "tags": ["Python"], "completed": "9/2017"},
@@ -77,5 +79,6 @@
 	{"title": "Learn and Understand NodeJS", "url": "https://www.udemy.com/understand-nodejs/", "type": "Course", "tags": ["Node", "Express"], "completed": "2/2018"},
 	{"title": "Practical Git for Everyday Professional Use", "url": "https://egghead.io/courses/practical-git-for-everyday-professional-use", "type": "Course", "tags": ["Git"], "completed": "2/2018"},
 	{"title": "Introduction to the Python 3 Programming Language", "url": "https://egghead.io/courses/introduction-to-the-python-3-programming-language", "type": "Course", "tags": ["Python"], "completed": "2/2018"},
-	{"title": "Django Girls", "url": "https://djangogirls.org/seattle/", "type": "Workshop", "tags": ["Python", "Django"], "completed": "2/2018"}
+	{"title": "Django Girls", "url": "https://djangogirls.org/seattle/", "type": "Workshop", "tags": ["Python", "Django"], "completed": "2/2018"},
+	{"title": "Women Techmaker's Summit", "url": "https://www.womentechmakers.com/iwd18", "type": "Conference", "tags": ["Networking"], "completed": "3/2018"}
 ]
