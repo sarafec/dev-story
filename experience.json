@@ -80,5 +80,7 @@
 	{"title": "Practical Git for Everyday Professional Use", "url": "https://egghead.io/courses/practical-git-for-everyday-professional-use", "type": "Course", "tags": ["Git"], "completed": "2/2018"},
 	{"title": "Introduction to the Python 3 Programming Language", "url": "https://egghead.io/courses/introduction-to-the-python-3-programming-language", "type": "Course", "tags": ["Python"], "completed": "2/2018"},
 	{"title": "Django Girls", "url": "https://djangogirls.org/seattle/", "type": "Workshop", "tags": ["Python", "Django"], "completed": "2/2018"},
-	{"title": "Women Techmaker's Summit", "url": "https://www.womentechmakers.com/iwd18", "type": "Conference", "tags": ["Networking"], "completed": "3/2018"}
+	{"title": "Women Techmaker's Summit", "url": "https://www.womentechmakers.com/iwd18", "type": "Conference", "tags": ["Networking"], "completed": "3/2018"},
+	{"title": "Reactive Programming wiht RxJS", "url": "https://youtu.be/aZRJOVPMW4k", "type": "Talk", "tags": ["RxJS"], "completed": "9/2017"},
+	{"title": "Trying Not to Lose Your Marbles with RxJS", "url": "https://youtu.be/v8G33B3mBY4", "type": "Talk", "tags": ["RxJS"], "completed": "3/2018"}
 ]
