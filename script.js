@@ -1,6 +1,7 @@
 let dataObj;
 let selectedKeyword = '';
 
+// ajax request
 function getData() {
   var request = new XMLHttpRequest();
   request.open('GET', 'experience.json', true);
@@ -22,6 +23,7 @@ function getData() {
   request.send();
 }
 
+// sort table entry by date
 function sortData(data) {
   let sorted = data.sort(function(a,b){
     a = a.completed.split('/');
@@ -33,6 +35,7 @@ function sortData(data) {
   createTableData();
 }
 
+// draw table to screen
 function createTableData() {
   for(let i = 0; i < dataObj.length; i++) {
     let tableBody = document.querySelector('.table-body');
@@ -64,6 +67,7 @@ function createTableData() {
     }
 }
 
+// filter table based on selection
 function removeTableData() {
   const tableBody = document.querySelector('.table-body');
 
