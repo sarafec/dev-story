@@ -83,5 +83,8 @@
 	{"title": "Women Techmaker's Summit", "url": "https://www.womentechmakers.com/iwd18", "type": "Conference", "tags": ["Networking"], "completed": "3/2018"},
 	{"title": "Reactive Programming wiht RxJS", "url": "https://youtu.be/aZRJOVPMW4k", "type": "Talk", "tags": ["RxJS"], "completed": "9/2017"},
 	{"title": "Trying Not to Lose Your Marbles with RxJS", "url": "https://youtu.be/v8G33B3mBY4", "type": "Talk", "tags": ["RxJS"], "completed": "3/2018"},
-	{"title": "Introduction to Reactive Programming", "url": "https://egghead.io/courses/introduction-to-reactive-programming", "type": "Course", "tags": ["RxJS"], "completed": "3/2018"}
+	{"title": "Introduction to Reactive Programming", "url": "https://egghead.io/courses/introduction-to-reactive-programming", "type": "Course", "tags": ["RxJS"], "completed": "3/2018"},
+	{"title": "KnowJS 2018", "url": "https://certifiedfreshevents.com/events/knowjs-2018/", "type": "Course", "tags": ["JavaScript"], "completed": "4/2018"},
+	{"title": "LaunchCode All-in <Tech>", "url": "https://www.launchcode.org/all-in-tech", "type": "Course", "tags": ["JavaScript", "MobX", "React"], "completed": "4/2018"},
+	{"title": "Grow with Google Scholarship Course: Mobile Web", "url": "https://blog.udacity.com/2017/10/udacity-google-announce-50000-new-scholarships.html", "type": "Workshop", "tags": ["JavaScript"], "completed": "4/2018"}
 ]
