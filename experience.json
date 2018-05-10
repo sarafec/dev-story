@@ -88,6 +88,7 @@
 	{"title": "LaunchCode All-in <Tech>", "url": "https://www.launchcode.org/all-in-tech", "type": "Course", "tags": ["JavaScript", "MobX", "React"], "completed": "4/2018"},
 	{"title": "Grow with Google Scholarship Course: Mobile Web", "url": "https://blog.udacity.com/2017/10/udacity-google-announce-50000-new-scholarships.html", "type": "Course", "tags": ["JavaScript"], "completed": "4/2018"},
 	{"title": "Write/Speak/Code Workshop", "url": "https://www.writespeakcode.com/", "type": "Workshop", "tags": ["Networking"], "completed": "4/2018"},
-	{"title": "Prefilling JavaScript arrays for fun and profit", "url": "https://medium.com/@sarafecadu/prefilling-javascript-arrays-for-fun-and-profit-4abc3713a323", "type": "Blog Post", "tags": ["JavaScript"], "completed": "4/2018"}
+	{"title": "Prefilling JavaScript arrays for fun and profit", "url": "https://medium.com/@sarafecadu/prefilling-javascript-arrays-for-fun-and-profit-4abc3713a323", "type": "Blog Post", "tags": ["JavaScript"], "completed": "4/2018"},
+	{"title": "The Complete Angular Course", "url": "https://www.udemy.com/the-complete-angular-master-class/", "type": "Course", "tags": ["Angular"], "completed": "5/2018"}
 
 ]
